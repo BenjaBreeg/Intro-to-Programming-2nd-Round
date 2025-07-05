@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index.html Webpage</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Internet! -Bo Burnham</h1>
+    </header>
+
+    <p>Round Two of Intro to Programming. Let's see if I can pass AGAIN. xD</p>
+
+    <img src="https://github.com/BenjaBreeg/Intro-to-Programming-2nd-Round/commit/7546fd781d92e62d4cee32460674bdae4ef70a1b" alt="Shaq School Meme">
+
+</body>
+</html>
